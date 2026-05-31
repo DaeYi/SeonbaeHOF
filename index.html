@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Seonbae Hall of Fame — honoring the Korean Americans who paved the way." />
+  <title>Seonbae Hall of Fame</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark">선배</span>
+        <span class="brand-name"><a href="index.html">Seonbae Hall of Fame</a></span>
+      </div>
+      <nav class="nav">
+        <a href="index.html" class="active">Hall</a>
+        <a href="books.html">Books</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-mark">선배</div>
+      <h1 class="hero-title">Seonbae Hall of Fame</h1>
+      <p class="hero-subtitle">In honor of those who walked the path before us.</p>
+      <p class="hero-intro">
+        선배 — <em>seonbae</em> — is the Korean word for the elders and predecessors whose example you inherit. This hall gathers the lives of Korean Americans who paved the way, across a century and a half, so that the next generation can know the path they walk on and decide where to take it next.
+      </p>
+      <hr class="hero-divider" />
+    </section>
+
+    <section class="section" id="hall">
+      <div class="section-label">In memoriam</div>
+      <h2 class="section-title">Our Seonbae</h2>
+
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="early">Early era · 1880s–1945</button>
+        <button class="filter-btn" data-filter="mid">Mid-century · 1945–today</button>
+      </div>
+
+      <div class="profile-grid" id="profile-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="about">
+    <div class="footer-inner">
+      <div>
+        <div class="footer-meaning">선배 <em>seonbae</em></div>
+        <p class="footer-about">
+          The Korean honorific for the elders and predecessors who walked the path before you. The word carries reverence built into the language itself — a thing you owe rather than a thing you bestow.
+        </p>
+      </div>
+      <div>
+        <p class="footer-about">
+          The Seonbae Hall of Fame honors Korean Americans who shaped the community we inherit. Every figure here has passed away; their stories remain.
+        </p>
+        <p class="footer-about" style="margin-top: 1rem;">
+          A proof-of-concept project. <a href="https://github.com/DaeYi/SeonbaeHOF" style="color: var(--accent);">View on GitHub</a>.
+        </p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© Seonbae Hall of Fame</span>
+      <span>Built in honor</span>
+    </div>
+  </footer>
+
+  <script src="js/dom.js"></script>
+  <script src="js/profiles-data.js"></script>
+  <script src="js/chat-data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/chat.js"></script>
+</body>
+</html>
