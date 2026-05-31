@@ -39,6 +39,3 @@ The cost of being a "first" is often paid before the title shows up. Young Oak K
 - [Spotlight On Young Oak Kim — Los Angeles Public Library](https://www.lapl.org/collections-resources/blogs/lapl/spotlight-young-oak-kim)
 - [Young Oak Kim Center for Korean American Studies — UC Riverside](https://youngoakkimcenter.ucr.edu/)
 
-## Red flag check
-
-None surfaced beyond initial findings. The historical record is consistent and laudatory across military, civic, and academic sources.

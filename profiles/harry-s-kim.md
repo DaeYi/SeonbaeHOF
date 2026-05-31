@@ -39,6 +39,3 @@ Two-person partnerships that last thirty years are extremely rare. Two-person pa
 - [Song family quality nectarine tradition continues after six decades — Farm Progress](https://www.farmprogress.com/song-family-quality-nectarine-tradition-continues-after-six-decades)
 - [Koreans in Central California (1903–1957) — Marn J. Cha](https://books.google.com/books/about/Koreans_in_Central_California_1903_1957.html?id=6jCM1KREJ5AC)
 
-## Red flag check
-
-Birth year cited inconsistently across sources (1885, 1886, and one source says 1896 — that last figure is implausible given his 1913 immigration as a married adult). Arrival year cited as both 1913 and 1914 across sources. The Rhee breakup is documented in KNA-aligned sources; Rhee-aligned accounts may frame this differently. No personal controversies surfaced.

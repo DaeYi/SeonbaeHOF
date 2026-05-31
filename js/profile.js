@@ -21,13 +21,27 @@
 
   document.title = `${profile.name} — Seonbae Hall of Fame`;
 
+  function buildPortrait(p) {
+    if (p.image) {
+      const img = el('img', { src: p.image, alt: p.name });
+      img.addEventListener('error', () => {
+        const wrap = img.parentElement;
+        clear(wrap);
+        wrap.appendChild(el('div', { class: 'profile-portrait-placeholder' }, p.korean.charAt(0)));
+      });
+      return el('div', { class: 'profile-portrait' }, img);
+    }
+    return el('div', { class: 'profile-portrait' },
+      el('div', { class: 'profile-portrait-placeholder' }, p.korean.charAt(0))
+    );
+  }
+
   fetch(`profiles/${slug}.md`)
     .then(res => {
       if (!res.ok) throw new Error('Profile not found');
       return res.text();
     })
     .then(md => {
-      // Strip everything up to and including the "*In memoriam.*" line so we render our own header.
       const memoriamIndex = md.indexOf('*In memoriam.*');
       const contentStart = memoriamIndex !== -1
         ? md.indexOf('\n', memoriamIndex) + 1
@@ -36,12 +50,11 @@
 
       clear(container);
 
-      // Back link
       container.appendChild(el('a', { href: 'index.html', class: 'profile-nav-back' }, 'Back to the Hall'));
 
-      // Header
-      const header = el('header', { class: 'profile-header' },
-        el('div', { class: 'hero-mark' }, '선배'),
+      // Build header (portrait + name + dates + field + in memoriam)
+      const headerChildren = [
+        buildPortrait(profile),
         el('h1', { class: 'profile-name' }, profile.name),
         el('div', { class: 'profile-korean' }, profile.korean),
         el('div', { class: 'profile-meta' },
@@ -50,15 +63,17 @@
           el('span', null, profile.field)
         ),
         el('div', { class: 'profile-memoriam' }, 'In memoriam')
-      );
+      ];
+      if (profile.imageNote) {
+        headerChildren.splice(1, 0, el('p', { class: 'profile-image-note' }, profile.imageNote));
+      }
+      const header = el('header', { class: 'profile-header' }, ...headerChildren);
       container.appendChild(header);
 
-      // Markdown content — rendered into a wrapper via DOMParser (trusted source).
       const article = el('article', { class: 'profile-content' });
       renderTrustedHtml(article, marked.parse(content));
       container.appendChild(article);
 
-      // Chat CTA
       const cta = el('aside', { class: 'profile-cta' },
         el('h3', null, `Speak with ${profile.name.split(' ')[0]}`),
         el('p', null, `Open a reflective conversation drawn from the documented decisions, values, and writings of ${profile.name}.`),

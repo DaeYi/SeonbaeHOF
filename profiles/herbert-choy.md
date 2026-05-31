@@ -39,6 +39,3 @@ There is a kind of trailblazer who makes the most of being first — and there i
 - [Herbert Y.C. Choy — Making History (University of Michigan)](https://sites.lsa.umich.edu/apiamakinghistory/2021/01/09/herbert-y-c-choy/)
 - [Remembering Herbert Choy, the first Korean-American lawyer in America — KHON2](https://www.khon2.com/remembering-hawaii/remembering-herbert-choy-the-first-korean-american-lawyer-in-america/)
 
-## Red flag check
-
-None surfaced beyond initial findings. His nomination by a Republican president (Nixon) is sometimes noted in passing but was uncontroversial — confirmed in two weeks. His judicial record is regarded across sources as careful, mainstream, and quietly distinguished.

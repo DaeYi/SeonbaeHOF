@@ -38,6 +38,3 @@ One reporter, one story, can move history — but only if the reporter stays on 
 - [K.W. Lee, 'godfather of Asian American journalism,' dies at 96 — CapRadio](https://www.capradio.org/articles/2025/04/01/kw-lee-godfather-of-asian-american-journalism-dies-at-96/)
 - [Remembering K.W. Lee, Korean Immigrant and Renowned American Journalist — Asian American Unity Coalition](https://www.aauc.us/remembering-kw-lee/)
 
-## Red flag check
-
-None surfaced beyond initial findings. He immigrated in 1950 and built his career and life in the United States; obituaries describe him as a US-based journalist and movement figure without challenging his standing as a Korean American figure.

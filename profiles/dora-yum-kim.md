@@ -38,6 +38,3 @@ Some of the most important Korean American institutions were built by people who
 - [Doing What Had to Be Done — Stanford SearchWorks](https://searchworks.stanford.edu/view/4315759)
 - [1978 Dora Kim Oral History — YouTube](https://www.youtube.com/watch?v=CxD1erFrChM)
 
-## Red flag check
-
-None surfaced beyond initial findings. Specific death date and place of death in 2003 were not confirmed in available sources; the year is cited in published references but the precise date should be verified against the Temple University Press biography or San Francisco Public Library oral history collection before publication.

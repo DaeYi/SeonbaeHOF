@@ -37,6 +37,3 @@ The most consequential Korean American architect of the 20th century is best kno
 - [David Hyun and architectural hybridity — Journal of Asian Architecture and Building Engineering](https://www.tandfonline.com/doi/full/10.1080/13467581.2024.2373828)
 - [AAPI Architects Highlighted for Their Indelible Impacts on Discipline and LA — SCI-Arc](https://www.sciarc.edu/news/2021/aapi-architects-la)
 
-## Red flag check
-
-The "dangerous alien" designation and deportation attempts were a product of McCarthy-era surveillance of leftist Korean independence figures, not of any criminal conduct; today these read as a mark of conviction rather than a controversy. None surfaced beyond initial findings.

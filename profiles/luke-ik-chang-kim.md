@@ -38,6 +38,3 @@ You can be a clinician and an activist in the same body — and the activism can
 - [Dr. Luke Ik Chang Kim Obituary — Davis Enterprise](https://www.davisenterprise.com/obits/dr-luke-ik-chang-kim/)
 - [Korean American Oral History Project Collection — UC Davis Library](https://www.library.ucdavis.edu/archives-and-special-collections/manuscript/korean-american-oral-history-project-collection/)
 
-## Red flag check
-
-None surfaced beyond initial findings. The Vacaville patient roster reads provocatively but reflects the standard caseload of California's main prison psychiatric facility, not personal choice of cases.

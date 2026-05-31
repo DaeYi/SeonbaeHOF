@@ -38,6 +38,3 @@ You can build a full Korean life thousands of miles from Korea, in a country tha
 - [Korean Women's Relief Society Records — UH Center for Korean Studies](https://manoa.hawaii.edu/koreanstudies/wp-content/uploads/2024/11/056-Korean-Womens-Relief-Society-Records-2021.pdf)
 - [120th year of Korean immigration to Hawaiʻi spotlights early women leaders — UH News](https://www.hawaii.edu/news/2023/01/31/korean-immigrant-women-leaders/)
 
-## Red flag check
-
-None surfaced beyond initial findings. Her institutional ties spanned both the Rhee and Park Yong-man wings of Korean Hawaii, which suggests she navigated factional politics rather than committing to one camp — but no direct controversies surfaced in available sources.

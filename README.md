@@ -17,7 +17,7 @@ The profiles originated as a proof-of-concept set within the [NetKAL community p
 - **Honor the predecessor.** These are people who walked a path before us. The voice respects that.
 - **Decision-focused, not achievement-focused.** Each profile centers *pivots* and *moments of choice*, not résumé highlights.
 - **Identity-pluralistic.** No "this is what a KA should be." Many ways to be one.
-- **Honest about complications.** Include the hard parts of a life. A red flag check section in each profile names anything found in research.
+- **Honest about complications.** Include the hard parts of a life within the body of the story itself, rather than partitioning them off as separate red flags.
 - **Multi-generational voices.** From the 1903–1905 plantation wave through the post-1965 immigration generation.
 
 ## Profile format
@@ -31,7 +31,6 @@ Each profile follows the same structure:
 - Decision moments — 3–6 bullets, each a pivot or choice
 - Why this matters for the next generation — one paragraph
 - Sources — verification links
-- Red flag check — any controversies surfaced in research
 
 ---
 

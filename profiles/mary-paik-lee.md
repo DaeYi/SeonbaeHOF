@@ -39,6 +39,3 @@ History is what gets written down. The 1903–1905 Korean immigration to Hawaii 
 - [Uncovering the buried past of early Korean American history in Riverside — UC Riverside News](https://news.ucr.edu/articles/2021/04/27/uncovering-buried-past-early-korean-american-history-riverside)
 - [The First Koreatown — JSTOR Daily](https://daily.jstor.org/the-first-koreatown/)
 
-## Red flag check
-
-None surfaced beyond initial findings. The memoir was lightly edited and contextualized by historian Sucheng Chan; the collaboration is openly acknowledged in the published volume.

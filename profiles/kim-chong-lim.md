@@ -39,6 +39,3 @@ Wealth that is held for its own sake is one thing. Wealth that is deployed at sc
 - [WAM History — Willows Air Memorial](https://www.willowsairmemorial-korea-america.org/wam-history)
 - [San Francisco 1920: The Willows Aviation Corps](https://sanfrancisco1920.com/san-francisco-1920-the-willows-aviation-corps/)
 
-## Red flag check
-
-Birth year is given inconsistently across sources (some say 1884, some 1886). The standard cited account places his birth in 1884 based on his being 22 at arrival in 1906. No personal controversies surfaced.

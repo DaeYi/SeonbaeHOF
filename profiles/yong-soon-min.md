@@ -40,6 +40,3 @@ There is a version of an art career that is only about your own work. Yong Soon 
 - [Remembering Yong Soon Min — Asian American Arts Alliance](https://www.aaartsalliance.org/magazine/stories/remembering-yong-soon-min-a-pioneer-of-asian-american-art)
 - [Yong Soon Min — Artist Website](https://www.yongsoonmin.com/)
 
-## Red flag check
-
-None surfaced beyond initial findings.

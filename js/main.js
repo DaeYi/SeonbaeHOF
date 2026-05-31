@@ -7,17 +7,36 @@
 
   if (!grid) return;
 
+  function buildImage(p) {
+    if (p.image) {
+      const img = el('img', { src: p.image, alt: p.name, loading: 'lazy' });
+      // Fall back to placeholder if the image fails to load
+      img.addEventListener('error', () => {
+        const wrap = img.parentElement;
+        clear(wrap);
+        wrap.appendChild(el('div', { class: 'card-image-placeholder' }, p.korean.charAt(0)));
+      });
+      return el('div', { class: 'card-image' }, img);
+    }
+    return el('div', { class: 'card-image' },
+      el('div', { class: 'card-image-placeholder' }, p.korean.charAt(0))
+    );
+  }
+
   function buildCard(p) {
     return el('a', { href: `profile.html?id=${p.slug}`, class: 'profile-card' },
-      el('div', { class: 'card-name' }, p.name),
-      el('div', { class: 'card-korean' }, p.korean),
-      el('div', { class: 'card-meta' },
-        el('span', { class: 'card-dates' }, `${p.birth}–${p.death}`),
-        el('span', { class: 'card-meta-divider' }, '·'),
-        el('span', { class: 'card-field' }, p.field)
-      ),
-      el('div', { class: 'card-frame' }, p.frame),
-      el('div', { class: 'card-memoriam' }, 'In memoriam')
+      buildImage(p),
+      el('div', { class: 'card-body' },
+        el('div', { class: 'card-name' }, p.name),
+        el('div', { class: 'card-korean' }, p.korean),
+        el('div', { class: 'card-meta' },
+          el('span', { class: 'card-dates' }, `${p.birth}–${p.death}`),
+          el('span', { class: 'card-meta-divider' }, '·'),
+          el('span', { class: 'card-field' }, p.field)
+        ),
+        el('div', { class: 'card-frame' }, p.frame),
+        el('div', { class: 'card-memoriam' }, 'In memoriam')
+      )
     );
   }
 

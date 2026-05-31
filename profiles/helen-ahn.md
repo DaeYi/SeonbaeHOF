@@ -39,6 +39,3 @@ The history of the Korean independence movement was written by the men whose nam
 - [Ahn Family House — USC Korean Studies Institute](https://dornsife.usc.edu/ksi/ahn-family-house/)
 - [Korean Women's Patriotic Association meeting photo — USC Libraries / Calisphere](https://calisphere.org/item/8e116bd2f503f4749d05d593356fcd62/)
 
-## Red flag check
-
-None surfaced. Helen Ahn's historical visibility is itself the issue — much of what is known about her is preserved through her husband's and children's biographies rather than her own. The 2008 Order of Merit recognition is a partial correction.

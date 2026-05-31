@@ -40,6 +40,3 @@ A lot of Korean American business success stories end at the business. Charles H
 - [Koreans in Central California (1903–1957) — Marn J. Cha](https://books.google.com/books/about/Koreans_in_Central_California_1903_1957.html?id=6jCM1KREJ5AC)
 - [History & Timeline — Pachappa Camp / UCR](https://pachappacamp.ucr.edu/history-timeline/)
 
-## Red flag check
-
-Birth year cited inconsistently (1884 in some sources, 1889 in others). His political role placed him on the anti-Rhee side of the bitter mid-century independence-movement schism, which made him a contested figure in Rhee-aligned circles for years. No personal controversies surfaced.

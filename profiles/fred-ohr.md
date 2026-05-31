@@ -39,6 +39,3 @@ The first part of the story is the dramatic one — the Korean kid from an Idaho
 - [Fred F. Ohr Collection — Library of Congress Veterans History Project](https://memory.loc.gov/diglib/vhp/bib/loc.natlib.afc2001001.86287)
 - [Fred F. Ohr — American Air Museum in Britain](https://www.americanairmuseum.com/archive/person/fred-f-ohr)
 
-## Red flag check
-
-Sources differ on his exact birthplace (Oregon vs. Idaho); the consensus is born in Oregon, raised in the Boise Basin. Aerial victory count (6) is well-documented in unit records; the 17 ground kills figure is standard in cited sources. None of the surfaced material flags controversy.

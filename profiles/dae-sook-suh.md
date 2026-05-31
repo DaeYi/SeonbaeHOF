@@ -37,6 +37,3 @@ Some of the most useful work a scholar can do is to write the book the field nee
 - [50th Anniversary Celebration of the Center for Korean Studies — UH Manoa](https://manoa.hawaii.edu/koreanstudies/50th-anniversary-celebration-center-for-korean-studies-university-of-hawaii-at-manoa/)
 - [Center for Korean Studies People — UH Manoa](https://manoa.hawaii.edu/koreanstudies/people/)
 
-## Red flag check
-
-His scholarship on Kim Il Sung was occasionally contested by South Korean nationalist historians who saw it as too willing to treat North Korean sources as serious historical material. This was, in fact, the methodological choice that made his work durable.

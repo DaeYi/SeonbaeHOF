@@ -1,6 +1,10 @@
 // Seonbae Hall of Fame — profile metadata
 // Full profile content lives in /profiles/<slug>.md
 // This file is the index used by the homepage grid and the chat selector.
+//
+// Image URLs: hotlinked from Wikimedia Commons (safe per Commons policy).
+// Where no Commons-hosted public-domain image exists, the `image` field is omitted
+// and the UI generates an elegant placeholder from the first character of the Korean name.
 
 const PROFILES = [
   {
@@ -11,7 +15,9 @@ const PROFILES = [
     death: "1969",
     era: "early",
     field: "Independence movement",
-    frame: "Half of the first Korean married couple to set foot in America — and the parent who actually raised the five children while her husband became Dosan."
+    frame: "Half of the first Korean married couple to set foot in America — and the parent who actually raised the five children while her husband became Dosan.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Ahn_Changho_%28Ahn_Chang-ho%2C_%EC%95%88%EC%B0%BD%ED%98%B8%2C_%E5%AE%89%E6%98%8C%E6%B5%A9%29%27s_family%2C_1917.jpg",
+    imageNote: "Ahn family portrait, 1917 — Helen Ahn at left."
   },
   {
     slug: "pyeng-koo-yoon",
@@ -21,7 +27,8 @@ const PROFILES = [
     death: "1949",
     era: "early",
     field: "Ministry & diplomacy",
-    frame: "The Hawaii plantation chaplain who, with Syngman Rhee, walked into Theodore Roosevelt's summer home in 1905 and asked the United States to defend Korea."
+    frame: "The Hawaii plantation chaplain who, with Syngman Rhee, walked into Theodore Roosevelt's summer home in 1905 and asked the United States to defend Korea.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/3/39/%EC%B2%AD%EB%85%84_%EC%8B%9C%EC%A0%88_%EC%9C%A4%EB%B3%91%EA%B5%AC.jpg"
   },
   {
     slug: "maria-hwang",
@@ -31,7 +38,8 @@ const PROFILES = [
     death: "1937",
     era: "early",
     field: "Education & women's organizing",
-    frame: "The Korean woman who walked out of an affluent marriage, took her three children to a Hawaiian sugar plantation, and ran the first Korean women's organization in the islands."
+    frame: "The Korean woman who walked out of an affluent marriage, took her three children to a Hawaiian sugar plantation, and ran the first Korean women's organization in the islands.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Maria_Whang.png"
   },
   {
     slug: "mary-paik-lee",
@@ -51,7 +59,8 @@ const PROFILES = [
     death: "1928",
     era: "early",
     field: "Independence movement",
-    frame: "The Korean independence leader who tried to build an army in Nebraska — because liberation, he believed, needed soldiers more than speeches."
+    frame: "The Korean independence leader who tried to build an army in Nebraska — because liberation, he believed, needed soldiers more than speeches.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/7/78/%EB%B0%95%EC%9A%A9%EB%A7%8C2.jpg"
   },
   {
     slug: "kim-chong-lim",
@@ -91,7 +100,9 @@ const PROFILES = [
     death: "1971",
     era: "early",
     field: "Entrepreneurship & OSS",
-    frame: "Sent alone to America at nine, built a fortune on bean sprouts, spent it building Korea's first modern pharmaceutical company, and at age 50 parachute-trained with the OSS to be dropped behind Japanese lines."
+    frame: "Sent alone to America at nine, built a fortune on bean sprouts, spent it building Korea's first modern pharmaceutical company, and at age 50 parachute-trained with the OSS to be dropped behind Japanese lines.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ilhan_New_and_Mary_Woo_New.jpg",
+    imageNote: "Ilhan New with his wife Mary Woo New."
   },
   {
     slug: "ha-soo-whang",
@@ -131,7 +142,8 @@ const PROFILES = [
     death: "1978",
     era: "early",
     field: "Film & television",
-    frame: "The first Korean American actor in Hollywood — son of the most famous Korean independence leader of his era — who built a 180-credit career by playing the enemies of his own people."
+    frame: "The first Korean American actor in Hollywood — son of the most famous Korean independence leader of his era — who built a 180-credit career by playing the enemies of his own people.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Philip_Ahn.gif"
   },
   {
     slug: "fred-ohr",
@@ -141,7 +153,8 @@ const PROFILES = [
     death: "2015",
     era: "early",
     field: "Military aviation",
-    frame: "The only American flying ace of Korean descent in World War II — a kid from an 8-by-10-foot tent in Idaho who shot down enemy planes over the Mediterranean."
+    frame: "The only American flying ace of Korean descent in World War II — a kid from an 8-by-10-foot tent in Idaho who shot down enemy planes over the Mediterranean.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Captain_Fred_Ohr.jpg"
   },
   {
     slug: "susan-ahn-cuddy",
@@ -151,7 +164,8 @@ const PROFILES = [
     death: "2015",
     era: "mid",
     field: "Military & intelligence",
-    frame: "The first Asian American woman in the US Navy — rejected for her race, applied again, ended up training Navy combat pilots and breaking codes for the NSA."
+    frame: "The first Asian American woman in the US Navy — rejected for her race, applied again, ended up training Navy combat pilots and breaking codes for the NSA.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Susan_Ahn_Cuddy_in_World_War_II_%28cropped%29.jpg"
   },
   {
     slug: "young-oak-kim",
@@ -171,7 +185,8 @@ const PROFILES = [
     death: "2004",
     era: "mid",
     field: "Federal judiciary",
-    frame: "The son of Korean sugar plantation workers on Kauai who became the first person of Korean ancestry admitted to the US bar — and the first Asian American to sit on a federal court."
+    frame: "The son of Korean sugar plantation workers on Kauai who became the first person of Korean ancestry admitted to the US bar — and the first Asian American to sit on a federal court.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Herbert_Choy.jpg"
   },
   {
     slug: "kw-lee",
@@ -241,7 +256,8 @@ const PROFILES = [
     death: "2022",
     era: "mid",
     field: "Korean Studies",
-    frame: "The Columbia-trained political scientist who built the first Korean Studies center in the United States — and wrote the definitive English-language biography of the man whose regime he had fled."
+    frame: "The Columbia-trained political scientist who built the first Korean Studies center in the United States — and wrote the definitive English-language biography of the man whose regime he had fled.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/7/79/%EC%84%9C%EB%8C%80%EC%88%99_%EB%B0%95%EC%82%AC.jpg"
   },
   {
     slug: "yong-soon-min",

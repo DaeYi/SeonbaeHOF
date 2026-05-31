@@ -37,6 +37,3 @@ The first Korean women in America were not following their husbands. Many of the
 - [Korean Women Immigrant Leaders Symposium — UH Center for Korean Studies](https://manoa.hawaii.edu/koreanstudies/january-26-2023-symposium-korean-women-immigrant-leaders-in-hawaii/)
 - [Vestiges of lives of first-generation Korean immigrants — Monash University](https://www.monash.edu/__data/assets/pdf_file/0006/3405399/Hawaii-Koreans-exhibition-material-English-version.pdf)
 
-## Red flag check
-
-None surfaced beyond initial findings. The "not allowed to be anything" line is paraphrased rather than verbatim quoted in the available sources; treat as attributed paraphrase, not direct quotation. Some burial records list 1944 rather than 1937 as her death year — Wikipedia and the UH symposium use 1937.

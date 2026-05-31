@@ -39,6 +39,3 @@ Some of the most important Korean American work is connective, not authored. Ha 
 - [Halla Huhm Dance Collection — UH Center for Korean Studies](https://manoa.hawaii.edu/koreanstudies/portfolio-item/halla-huhm-dance-collection/)
 - [NASW Social Work Pioneers](https://www.naswfoundation.org/Our-Work/NASW-Social-Work-Pioneers)
 
-## Red flag check
-
-None surfaced beyond initial findings. The NASW Social Work Pioneer designation is referenced in multiple secondary sources but the specific NASW bio page URL returns the index rather than her individual entry — the designation appears legitimate but the direct link is not currently accessible.

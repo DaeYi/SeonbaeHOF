@@ -40,6 +40,3 @@ The person who builds the neighborhood is often not the person who profits from 
 - [Hi Duk Lee, Los Angeles Koreatown pioneer, dead at 79 — NBC News](https://www.nbcnews.com/news/asian-america/hi-duk-lee-los-angeles-koreatown-pioneer-dead-79-n985956)
 - [Founder of LA's Koreatown dies at 79 — The Real Deal](https://therealdeal.com/la/2019/03/31/founder-of-las-koreatown-dies-at-79/)
 
-## Red flag check
-
-VIP Plaza generated legal disputes with newly-arrived Korean tenants over rent in the early 1980s, during the same period as his financial unraveling. Noted in the L.A. Taco and Brightwell accounts but did not become a defining controversy. None otherwise surfaced beyond initial findings.

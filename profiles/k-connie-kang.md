@@ -39,6 +39,3 @@ When a mainstream institution finally hires "one of you," the job that follows i
 - [Home Was the Land of Morning Calm — Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/k-connie-kang/home-was-the-land-of-morning-calm/)
 - [Kang, K. Connie — Encyclopedia.com](https://www.encyclopedia.com/arts/culture-magazines/kang-k-connie)
 
-## Red flag check
-
-None surfaced beyond initial findings. Kang was born in Korea (Hamhung) and immigrated as a young adult, building her entire professional life in the US. Sources consistently treat her as a Korean American figure without dispute.

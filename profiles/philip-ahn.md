@@ -38,6 +38,3 @@ You will sometimes be asked to play the part of your enemy in order to keep work
 - [Philip Ahn – The Korean American Pioneer in Hollywood — AsAmNews](https://asamnews.com/2023/05/25/phillip-ahn-the-korean-american-pioneer-in-hollywood/)
 - [Philip Ahn — EBSCO Research Starters](https://www.ebsco.com/research-starters/history/philip-ahn)
 
-## Red flag check
-
-Philip Ahn's wartime casting as Japanese villains is the obvious tension and is handled openly in the profile rather than glossed. Reported FBI/McCarthy-era surveillance of the Ahn family is repeated in some accounts but is not strongly sourced in publicly available secondary literature; the more solidly documented version is the 1943 War Department intervention to clarify his allegiances against the death-threat hate mail he was receiving.

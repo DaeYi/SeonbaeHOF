@@ -41,6 +41,3 @@ Ilhan New is the Korean American figure who refused to choose. American by upbri
 - [HHS part of South Korea billionaire's story — Hastings Tribune](https://www.hastingstribune.com/news/hhs-part-of-south-korea-billionaires-story/article_e1627438-ec0b-11e8-b2ff-ffaa15f977df.html)
 - [A Trans-Pacific Implementation of Employee Stock Ownership — Business History Conference](https://thebhc.org/trans-pacific-implementation-employee-stock-ownership-reduce-inequality-case-ilhan-new-and-pre-war)
 
-## Red flag check
-
-Yuhan Corporation's Korean-language hagiography of New is necessarily celebratory; the broader academic literature (Business History Conference paper, Smithsonian piece) is more measured and substantiates the major claims here. No serious controversy surfaced. New is borderline on the strict "primarily lived/contributed in the US" rule — he spent the last decades of his life in Korea — but he was sent to the US at age 9, naturalized, built and sold an American business, served in the US Army, and earned a Stanford JD; he meets the working interpretation.

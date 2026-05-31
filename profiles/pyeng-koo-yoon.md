@@ -38,6 +38,3 @@ The petition failed. Roosevelt was polite. The Korean legation in Washington had
 - [Koreans ignored at 1919 Paris Peace Conference — The Korea Times](https://www.koreatimes.co.kr/www/opinion/2024/10/137_270064.html)
 - [History of Korean United Methodists — UMC.org](http://ee.umc.org/who-we-are/history-of-korean-united-methodists)
 
-## Red flag check
-
-None surfaced beyond initial findings. Yoon was a Rhee ally throughout, which placed him on one side of the bitter independence-movement factional disputes of the 1920s–40s, but no personal controversies surfaced in available sources.

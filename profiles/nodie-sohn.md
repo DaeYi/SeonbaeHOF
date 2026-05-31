@@ -37,6 +37,3 @@ Diaspora politics is always factional politics, and being effective inside a fac
 - [120th year of Korean immigration to Hawaiʻi spotlights early women leaders — UH News](https://www.hawaii.edu/news/2023/01/31/korean-immigrant-women-leaders/)
 - [The story of Hawaii's starring role in inspiring South Korea's first president — Hawaii News Now](https://www.hawaiinewsnow.com/2023/12/22/hawaiis-influence-south-koreas-first-president/)
 
-## Red flag check
-
-The Dongji Hoi / Syngman Rhee connection is the central complication. Rhee's later presidency (1948–1960) is one of the most contested legacies in modern Korean history — authoritarian rule, the Jeju and Bodo League massacres, electoral fraud that triggered the April Revolution. Nodie Kim's exile-era institutional work predates and is distinct from those events, but her 1952 procurement appointment in Seoul came under Rhee's government. Worth foregrounding rather than burying when this profile is used in any public-facing context.
